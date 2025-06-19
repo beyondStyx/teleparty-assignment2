@@ -40,7 +40,8 @@ An Android application that plays a DRM-protected video using **ExoPlayer** and 
 
 [Task 1 \- Video Player Demo](https://drive.google.com/file/d/1eVABb4KscEfUkCtLLCxiibmmXZAPrS73/view?usp=sharing)
 
-Note: This video was recorded on an emulator due to DRM playback restrictions on physical device screen recorders. Slight lag is from the emulator — the app runs smoothly on real devices.
+### **Note** 
+* This video was recorded on an emulator due to DRM playback restrictions on physical device screen recorders. Slight lag is from the emulator — the app runs smoothly on real devices.
 ---
 
 ## **Task 2: Metadata Fetcher Using Non-Public API**
