@@ -50,11 +50,18 @@ item\_resolution.xml                 // RecyclerView item layout for each resolu
 
 ## **Demonstration**
 
+[Task 1 \- Video Player Demo](https://drive.google.com/file/d/1eVABb4KscEfUkCtLLCxiibmmXZAPrS73/view?usp=sharing)
+
+### **Note**
+* This video was recorded on an emulator due to DRM playback restrictions on physical device screen recorders. Slight lag is from the emulator — the app runs smoothly on real devices.
+
+
 A short demo video is included showing:
 
 * ExoPlayer playback with Widevine-protected content.  
 * Scrubbing, pausing, and resuming the video.  
 * Opening the resolution selector and changing quality on the fly.
+
 
 ## **Notes**
 
