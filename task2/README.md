@@ -56,6 +56,8 @@ activity\_main.xml      // Defines the layout for the main screen
 
 ## **Demonstration**
 
+[Task 2 \- Metadata Fetcher Demo](https://drive.google.com/file/d/1x58y8ycGnpkXz9g0A5w3cV9i49XpG3_H/view?usp=sharing)
+
 A short video is included with the submission to demonstrate:
 
 * Selecting a title or entering a video ID  
